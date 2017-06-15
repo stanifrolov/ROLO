@@ -27,12 +27,9 @@ Description:
 import ROLO_utils as utils
 
 import tensorflow as tf
-from tensorflow.models.rnn import rnn, rnn_cell
-import cv2
 
 import numpy as np
 import os.path
-import time
 import random
 
 
